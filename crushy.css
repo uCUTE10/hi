@@ -119,7 +119,7 @@ body{
 #hands{
 				width: 50px;
 				position: absolute;
-				top: 9em;
+				top: 7em;
 				left: 6em;
 				animation: bounce2 2s ease infinite;
 				opacity: 0;
