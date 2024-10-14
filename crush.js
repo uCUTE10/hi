@@ -146,7 +146,7 @@ btt3.addEventListener("click", function (){
 		 btt10.style.opacity= "1";
 		 bbtt1.style.opacity= "1";
 		 bbtt2.style.opacity= "1";
-		 bbtt3.style.opacity= "1";
+		 bbtt3.style.opacity= "0";
 		 bbtt4.style.opacity= "1";
 		 bbtt5.style.opacity= "1";
 		 
