@@ -120,7 +120,7 @@ body{
 				width: 50px;
 				position: absolute;
 				top: 9em;
-				left: 10em;
+				left: 8em;
 				animation: bounce2 2s ease infinite;
 				opacity: 0;
 }
