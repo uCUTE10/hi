@@ -1,24 +1,24 @@
 
 document.oncontextmenu = () => {
-	alert("BOSSING SAN KA PUPUNTA???")
+	alert("I LOVE YOU")
 	return false
 }
 
 document.onkeydown = e => {
 	if (e.key == "F12") {
-	alert("BOSSING SAN KA PUPUNTA???")
+	alert("I LOVE YOU")
 	return false
 }
 	if(e.ctrlKey && e.key == "u"){
-		alert("BOSSING SAN KA PUPUNTA???")
+		alert("I LOVE YOU")
 		return false
 	}
 	if (e.ctrlKey && e.key == "c"){
-		alert("BOSSING SAN KA PUPUNTA???")
+		alert("I LOVE YOU")
 		return false
 	}
 	if(e.ctrlKey && e.key == "v"){
-		alert("BOSSING SAN KA PUPUNTA???")
+		alert("I LOVE YOU")
 		return false
 	}
 }
