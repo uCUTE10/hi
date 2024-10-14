@@ -1,24 +1,24 @@
 
 document.oncontextmenu = () => {
-	alert("Don't right click")
+	alert("BOSSING SAN KA PUPUNTA???")
 	return false
 }
 
 document.onkeydown = e => {
 	if (e.key == "F12") {
-	alert("Don't try to inspect element")
+	alert("BOSSING SAN KA PUPUNTA???")
 	return false
 }
 	if(e.ctrlKey && e.key == "u"){
-		alert("Don't try to view page sources")
+		alert("BOSSING SAN KA PUPUNTA???")
 		return false
 	}
 	if (e.ctrlKey && e.key == "c"){
-		alert("Don't try to copy page element")
+		alert("BOSSING SAN KA PUPUNTA???")
 		return false
 	}
 	if(e.ctrlKey && e.key == "v"){
-		alert("Don't try to paste anything to page")
+		alert("BOSSING SAN KA PUPUNTA???")
 		return false
 	}
 }
